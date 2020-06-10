@@ -1,0 +1,23 @@
+# default.custom.yaml
+# save it to:
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+patch:
+  schema_list:
+    - schema: luna_pinyin_simp          # 朙月拼音
+    - schema: double_pinyin        # 自然碼雙拼
+
+  "ascii_composer/switch_key":
+    Caps_Lock: noop
+    Shift_L: commit_code # 左Shift上屏编码并切换为英文状态，inline_ascii 设[>
+    Shift_R: inline_ascii # 不上屏，字符转变为英文输入，按Enter键英文字符上[>
+
+  "punctuator/full_shape":
+    "/": "/"
+  "punctuator/half_shape":
+    "/": "/"
+
+  "menu/page_size": 9
+

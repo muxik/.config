@@ -1,0 +1,104 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	150
+#@/user_id	78075207-c1e0-4da2-82e5-3b583398e15c
+an li 	案例	c=1 d=0.83527 t=150
+an zhuang 	安裝	c=1 d=0.951229 t=150
+ba 	吧	c=1 d=1 t=150
+bi 	比	c=1 d=0.715338 t=150
+biao 	表	c=1 d=0.843665 t=150
+bu zhi chi 	不支持	c=1 d=0.628135 t=150
+can shu 	參數	c=1 d=0.600496 t=150
+cha xun 	查詢	c=3 d=2.39024 t=150
+chang jian 	常見	c=1 d=0.609571 t=150
+cheng 	稱	c=1 d=0.540641 t=150
+cun chu 	存儲	c=2 d=1.39198 t=150
+da pei 	搭配	c=1 d=0.66365 t=150
+de 	的	c=6 d=4.72208 t=150
+dong xi 	東西	c=1 d=0.927743 t=150
+fan ti 	繁體	c=1 d=0.491644 t=150
+fen zu 	分組	c=6 d=3.77599 t=150
+gan jue 	感覺	c=1 d=0.913931 t=150
+gao 	高	c=1 d=0.726149 t=150
+ge shi 	格式	c=1 d=0.618783 t=150
+ge shu 	個數	c=1 d=0.588605 t=150
+geng xin 	更新	c=1 d=0.965605 t=150
+gong neng 	功能	c=1 d=0.529935 t=150
+ha ha ha 	哈哈哈	c=0 d=0.0494109 t=150
+ha ha ha ha 	哈哈哈哈	c=0 d=0.0494109 t=150
+ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha 	哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈	c=1 d=0.496585 t=150
+hai xing 	還行	c=1 d=0.995012 t=150
+han shu 	函數	c=10 d=6.13667 t=150
+he 	和	c=3 d=2.38943 t=150
+hou 	後	c=1 d=0.822835 t=150
+hu lve 	忽略	c=2 d=1.6275 t=150
+huan yuan 	還原	c=1 d=0.941765 t=150
+huo 	或	c=2 d=1.11146 t=150
+ji qi ren 	機器人	c=1 d=0.955997 t=150
+ji suan 	計算	c=2 d=1.48599 t=150
+jia jia 	佳佳	c=1 d=0.960789 t=150
+jie shao 	介紹	c=1 d=0.677057 t=150
+jin tian 	今天	c=1 d=0.506617 t=150
+ju he 	聚合	c=1 d=0.546074 t=150
+kuai zhao 	快照	c=1 d=0.937067 t=150
+lai zi 	來自	c=1 d=0.481909 t=150
+le 	了	c=1 d=0.494109 t=150
+lei xing 	類型	c=4 d=2.53576 t=150
+li qiao jin 	李橋金	c=1 d=0.516851 t=150
+mei you 	沒有	c=3 d=1.74315 t=150
+mo ming 	莫名	c=1 d=0.501576 t=150
+mo ren 	默認	c=1 d=0.774916 t=150
+na 	拿	c=1 d=0.514274 t=150
+ni hao 	你好	c=2 d=1.46479 t=150
+ping jun zhi 	平均值	c=1 d=0.571209 t=150
+qi miao 	奇妙	c=1 d=0.50409 t=150
+qiu he 	求和	c=1 d=0.56836 t=150
+qu chong 	去重	c=1 d=0.666977 t=150
+ru zhi 	入職	c=2 d=1.7388 t=150
+shi 	是	c=1 d=0.818731 t=150
+shi jian 	時間	c=2 d=1.74752 t=150
+shi yong 	使用	c=1 d=0.535261 t=150
+suo you 	所有	c=2 d=1.29133 t=150
+tian jia 	添加	c=1 d=0.946485 t=150
+tian shu 	天數	c=2 d=1.80521 t=150
+tiao zheng 	調整	c=1 d=0.621885 t=150
+tong ji 	統計	c=2 d=1.08692 t=150
+tong xue 	同學	c=1 d=0.511709 t=150
+wei 	爲	c=1 d=0.543351 t=150
+wen jian 	文件	c=1 d=0.97531 t=150
+wen ti 	問題	c=1 d=0.683861 t=150
+wo shi 	我是	c=1 d=0.479505 t=150
+wo shou 	握手	c=1 d=0.477114 t=150
+xi tong 	系統	c=1 d=0.932394 t=150
+xia 	下	c=2 d=1.40597 t=150
+xian shi 	顯示	c=1 d=0.778801 t=150
+xiang cha 	相差	c=2 d=1.7962 t=150
+xiang xi 	詳細	c=1 d=0.67368 t=150
+xiang yao 	想咬	c=1 d=0.923116 t=150
+xiao lv 	效率	c=2 d=1.37813 t=150
+xiao ming 	小明	c=1 d=0.509156 t=150
+ya chi 	牙齒	c=1 d=0.918512 t=150
+yao 	要	c=1 d=0.722527 t=150
+yao qiu 	要求	c=1 d=0.814647 t=150
+ye ye 	爺爺	c=1 d=0.499074 t=150
+yi hang 	一行	c=1 d=0.782705 t=150
+yi tong 	一同	c=2 d=1.54304 t=150
+yi xie 	一些	c=1 d=0.729789 t=150
+yi yi 	意義	c=1 d=0.771052 t=150
+yin qing 	引擎	c=2 d=1.39895 t=150
+you 	又	c=1 d=0.537944 t=150
+you xian zhi 	有限制	c=1 d=0.759572 t=150
+zheng 	整	c=1 d=0.625002 t=150
+zhi 	值	c=3 d=1.82004 t=150
+zhi chi 	支持	c=3 d=1.89142 t=150
+zhong 	中	c=3 d=2.31242 t=150
+zhou 	州	c=1 d=0.985112 t=150
+zi duan 	字段	c=4 d=3.11639 t=150
+zi fu 	字符	c=1 d=0.631284 t=150
+zi ti 	字體	c=1 d=0.763379 t=150
+zu 	組	c=1 d=0.562705 t=150
+zui da 	最大	c=2 d=1.43049 t=150
+zui gao 	最高	c=1 d=0.701173 t=150
+zui xiao 	最小	c=2 d=1.45356 t=150

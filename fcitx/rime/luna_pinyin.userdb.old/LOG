@@ -1,0 +1,6 @@
+2020/04/25-12:13:38.428522 140441036642048 Log #320: 0 ops saved to Table #321 OK
+2020/04/25-12:13:38.429696 140441036642048 Archiving /home/muxik/.config/fcitx/rime/luna_pinyin.userdb/000320.log: OK
+2020/04/25-12:13:38.429736 140441036642048 Table #319: 12 entries OK
+2020/04/25-12:13:38.429884 140441036642048 Table #303: 1287 entries OK
+2020/04/25-12:13:38.429975 140441036642048 Archiving /home/muxik/.config/fcitx/rime/luna_pinyin.userdb/MANIFEST-000318: OK
+2020/04/25-12:13:38.431754 140441036642048 **** Repaired leveldb /home/muxik/.config/fcitx/rime/luna_pinyin.userdb; recovered 2 files; 33947 bytes. Some data may have been lost. ****
